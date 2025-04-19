@@ -1,6 +1,6 @@
 // src/pages/Calculator.jsx
 import { useState } from 'react'
-import './assets/styles.css'
+import '../../../assets/styles.css'
 import {
   Container,
   Typography,
