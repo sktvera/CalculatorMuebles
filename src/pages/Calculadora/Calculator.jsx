@@ -1,6 +1,6 @@
 // src/pages/Calculator.jsx
 import { useState } from 'react'
-import '../../../assets/styles.css'
+import '/src/assets/styles.css' // ✅ Ruta absoluta desde raíz del proyecto
 import {
   Container,
   Typography,
