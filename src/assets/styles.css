@@ -32,7 +32,9 @@
 
   .flip-card-front,
   .flip-card-back {
+    height: 600px;
     width: auto;
+    overflow-y: scroll;
   }
 }
 

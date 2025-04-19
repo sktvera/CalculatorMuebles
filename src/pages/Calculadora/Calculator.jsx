@@ -205,6 +205,7 @@ export default function Calculator() {
             <Box display="flex" flexDirection="column" gap={3}>
           
 
+
   {/* Campos principales en 3 columnas */}
   <Box
     display="grid"
